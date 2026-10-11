@@ -1,0 +1,12 @@
+{
+  "app": "mako-suite-hub",
+  "hubVersion": "1.0.0",
+  "releaseDate": "2026-10-11",
+  "downloadUrl": "https://github.com/editorlennon-ux/mako-suite-hub/releases/latest/download/Mako_Suite_Hub_Setup.exe",
+  "releaseNotes": [
+    "Vitrine oficial dedicada para Próximos Lançamentos avulsos",
+    "Aba Plugins Ativos com catálogo da suíte completa em cards 50% menores",
+    "Desinstalador oficial integrado no Menu Iniciar e na pasta do programa",
+    "Motor nativo de atualização automática em segundo plano para qualquer computador"
+  ]
+}
